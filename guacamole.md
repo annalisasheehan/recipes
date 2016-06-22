@@ -1,4 +1,7 @@
 # Ingredients
-Avocados
+- Avocados
+- onions
+- lime
+- salt
 
 # Instructions
